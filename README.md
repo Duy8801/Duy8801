@@ -1,21 +1,21 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Subhampreet Mohanty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">I'm Phạm Quang Duy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a Web Developer from Viet Nam ❤</h3>
   
-A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A 21Y/O  Web developer🎯 from Viet Nam. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+![living](https://img.shields.io/badge/living-HoChiMinhCity-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_) 
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/duypham346/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
@@ -53,9 +53,9 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Duy8801&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Duy8801&theme=dark" width="45%" >
 
 <br>
 
@@ -65,13 +65,13 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/subhampreet-mohanty-534b9b1a9/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_the.odist_/?hl=en)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/subhampreet.mohanty/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://subhampreet-mohanty-6cdeb.web.app/)
+[<img src="https://img.shields.io/badge/linktree-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/Dev.Duy)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/duypham346/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100013323079516)
+<img src="https://img.shields.io/badge/Phone Number: 0398263093-%23E4405F.svg?&style=for-the-badge">
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
 
 </div>
 
