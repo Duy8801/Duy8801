@@ -2,9 +2,9 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi!  I'm Phạm Quang Duy. </h1>
 
-<h3 align="center">I'm a Web Developer from Viet Nam ❤</h3>
+<h3 align="center">I'm a Mobile Developer from Viet Nam ❤</h3>
   
-A 21Y/O  Web developer🎯 from Viet Nam. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A 24Y/O Flutter Mobile Developer 🎯 from Viet Nam. I'm passionate about crafting seamless Mobile Apps with Flutter. 📱 I enjoy designing intuitive UIs, optimizing app performance, tackling cross-platform challenges, and ensuring smooth user experiences. Strong Advocate for 📜 open source, :iphone: Mobile innovation, 🚀 CI/CD pipelines, :new: cutting-edge tech, and Automation :robot:
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -13,11 +13,11 @@ A 21Y/O  Web developer🎯 from Viet Nam. I'm passionate about Full-Stack Web De
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/duypham346/) 
+- 🌱 I’m currently learning Flutter, Dart, and NestJS
+- 👯 I’m looking to collaborate on Mobile App projects and Backend APIs with NestJS
+- 📫 How to reach me: You may follow me on Instagram
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: I build apps by day, debug backend by night!
 <br />
 
 
@@ -25,27 +25,14 @@ A 21Y/O  Web developer🎯 from Viet Nam. I'm passionate about Full-Stack Web De
 
 <div align="center">
   
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
-
-<br>
-
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="60"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60">
 
 </div>
 
@@ -67,7 +54,7 @@ A 21Y/O  Web developer🎯 from Viet Nam. I'm passionate about Full-Stack Web De
 
 [<img src="https://img.shields.io/badge/linktree-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/Dev.Duy)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/duypham346/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100013323079516)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/yud2konne)
 <img src="https://img.shields.io/badge/Phone Number: 0398263093-%23E4405F.svg?&style=for-the-badge">
 
 
